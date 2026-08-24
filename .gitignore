@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+data/
+out/
+*.ckpt
+release/
+release_staging/
