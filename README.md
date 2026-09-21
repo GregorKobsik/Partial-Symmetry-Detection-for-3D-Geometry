@@ -16,8 +16,8 @@ SymCL detects **partial extrinsic symmetries** (rotational, translational, refle
 
 - [x] Release code
 - [ ] Release SymPartNet benchmark annotations (`sympartnet.zip`)
-- [ ] Release pretrained checkpoint (`run_37809.zip`)
-- [ ] Release precomputed data for the paper's qualitative shapes (`precomputed.zip`)
+- [x] Release pretrained checkpoint (`run_37809.zip`)
+- [x] Release precomputed data for the paper's qualitative shapes (`precomputed.zip`)
 - [ ] Release Mitra et al. re-implementation (comparison baseline)
 
 ## Installation
@@ -33,7 +33,7 @@ Tested with Python 3.10, PyTorch 2.8.0 (CUDA 12.8), PyTorch3D 0.7.9 on Linux.
 
 ## Pretrained model & data
 
-Download from the GitHub Release page:
+Download from the [GitHub Release page](https://github.com/GregorKobsik/Partial-Symmetry-Detection-for-3D-Geometry/releases/tag/v1.0):
 
 | Asset | Content | Unpack to |
 |---|---|---|
